@@ -1,0 +1,37 @@
+{
+    "name": "bootstrap-tree",
+    "homepage": "https://github.com/moazzamkhan/bootstrap-tree",
+     "version": "0.0.1",
+    "authors": [
+        "Moazzam Khan <MoazzamKhan@fico.com> http://moazzam.me"
+    ],
+    "description": "A bootstrap tree based on http://jsfiddle.net/jhfrench/GpdgF/",
+    "main": [
+        "dist/bootstrap-tree.min.js",
+        "dist/bootstrap-tree.min.css"
+    ],
+    "keywords": [
+        "twitter",
+        "bootstrap",
+        "bootstrap-tree",
+        "tree",
+        "treeview",
+        "tree-view",
+        "navigation",
+        "javascript",
+        "jquery",
+        "jquery-plugin"
+    ],
+    "dependencies": {
+        "jquery": ">= 1.9.0",
+        "bootstrap": ">= 3.0.0"
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
